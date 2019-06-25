@@ -1,3 +1,4 @@
+# Python Reinforcement: June 17
 ## Prerequisites
 * Programming fundamentals assignments about data types, variables, conditionals, functions, collections, iteration
 * Programming fundamentals assignments about OOP
